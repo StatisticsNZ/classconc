@@ -1,0 +1,18 @@
+Package: classconc
+Type: Package
+Title: Concordances between Classifications
+Version: 0.0.0.9100
+Date: 2016-09-21
+Authors@R: c(
+    person(given = "John",
+           family = "Bryant",
+	         email = "john.bryant@stats.govt.nz",
+	         role = c("cre", "aut")))
+Description: Classes and methods for working with concordances between
+    statistical classifications, e.g. concordances between different
+    occupational codes or geographical units.
+License: MIT + file LICENSE
+LazyData: TRUE
+Imports:
+    methods 
+RoxygenNote: 5.0.1
