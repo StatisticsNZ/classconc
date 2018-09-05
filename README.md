@@ -1,6 +1,9 @@
 
 # classconc
 
+**This package is now deprecated.  The functions it contains have been moved to package 'dembase'. If you have a recent version of 'dembase', there is no need to install classconc.**
+
+
 Data structures and functions for concordances between classifications.
 
 `classconc` provides tools for working with concordances between classifications, such as classifications of occupations or geographical regions.  The package is still under development.
